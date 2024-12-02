@@ -1,1 +1,1 @@
-# astri-nisa-integrator
+# astri-observium-core-integrator
